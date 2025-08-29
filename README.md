@@ -1,4 +1,7 @@
+Got it Sathya 👍
+I see what you mean — the formatting in your current README has extra/unclosed backticks and spacing issues. I’ll fix all of that and give you a **clean, copy-paste ready `README.md`**.
 
+Here’s the corrected version:
 
 ```markdown
 # 🌌 Astronomy ML Project — Hybrid Machine Learning Solutions
@@ -56,6 +59,7 @@ The project leverages **multiple learning paradigms** — **Supervised, Unsuperv
 ---
 
 ## 📂 Project Structure
+
 ```
 
 ├── notebooks/          # Google Colab experiments
@@ -120,3 +124,10 @@ The project leverages **multiple learning paradigms** — **Supervised, Unsuperv
 📧 Reach out for collaborations or research discussions!
 
 ---
+
+```
+
+✅ Now the Markdown is **perfectly formatted** — all code fences are closed, line breaks render properly, and it’s GitHub-ready.  
+
+Do you also want me to include a **repo name suggestion** right at the top of the README (like a subtitle under the title)?
+```
